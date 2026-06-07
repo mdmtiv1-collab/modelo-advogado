@@ -1,0 +1,6 @@
+{
+  "name": "Augusto Almeida Advocacia",
+  "description": "Website institucional premium de advocacia para advogado autônomo, com foco em segurança jurídica, ética e atendimento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
