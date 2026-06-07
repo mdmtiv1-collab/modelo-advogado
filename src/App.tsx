@@ -34,7 +34,7 @@ export default function App() {
   )}`;
 
   return (
-    <div className="relative min-h-screen font-sans bg-stone-50/20 text-navy-950 overflow-x-hidden">
+    <div className="relative min-h-screen font-sans bg-[#0A0A0B] text-slate-100 overflow-x-hidden">
       
       {/* 1. Header Navigation Bar */}
       <Header />
